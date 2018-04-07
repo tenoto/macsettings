@@ -14,7 +14,7 @@
 - [Sublime](https://www.sublimetext.com)
 - Papers3
 - Xcode, Xcode command line tool by `xcode-select --install`, and agree to license `sudo xcodebuild -license`
-- Homebrew
+- [Homebrew](https://brew.sh)
 
 ## Physics and Astronomy
 - [HEASoft](https://heasarc.gsfc.nasa.gov/lheasoft/download.html)
