@@ -20,4 +20,4 @@
 - HEASoft 
 
 ## Setups
-- change to zsh 'chsh -s /bin/zsh' 
+- change to zsh `chsh -s /bin/zsh`
