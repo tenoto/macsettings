@@ -4,7 +4,7 @@
 
 ## Initial Setup and Installation List
 - Apple account, App Store, iTune, iCloud
-- Google account, gmail
+- Google account, Gmail
 - DaisyDisk 
 - Dropbox
 - Wallet 
