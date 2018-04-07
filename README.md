@@ -13,7 +13,7 @@
 - [MacTex](http://tug.org/mactex/mactex-download.html), TexShop ([Installation hint](http://osksn2.hep.sci.osaka-u.ac.jp/~taku/osx/install_ptex.html))
 - [Sublime](https://www.sublimetext.com)
 - Papers3
-- Xcode, Xcode command line tool by `xcode-select --install`
+- Xcode, Xcode command line tool by `xcode-select --install`, and agree to license `sudo xcodebuild -license`
 - Homebrew
 
 ## Physics and Astronomy
