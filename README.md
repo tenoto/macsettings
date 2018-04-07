@@ -44,3 +44,10 @@ git clone https://github.com/yyuu/pyenv-virtualenv.git ~/.pyenv/plugins/pyenv-vi
 echo 'eval "$(pyenv virtualenv-init -)"' >> ~/.zshrc
 ```
 
+### Generate a new python environment
+- A new python environment is generated via `pyenv virtualenv [version] <virtualenv-name>`. For example, 
+```
+pyenv install 2.7.14
+pyenv rehash
+pyenv virtualenv 2.7.14 py2.7.14env1
+```
