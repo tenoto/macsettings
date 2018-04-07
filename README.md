@@ -54,3 +54,8 @@ pyenv versions
 pyenv global py2.7.14env1 
 pyenv versions
 ```
+
+### Insallation of python modules
+```
+pip install astropy
+```
