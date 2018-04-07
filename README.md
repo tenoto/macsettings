@@ -16,7 +16,7 @@
 - Homebrew
 
 ## Physics and Astronomy
-- HEASoft 
+- [HEASoft](https://heasarc.gsfc.nasa.gov/lheasoft/download.html)
 
 ## Setups
 - change to zsh `chsh -s /bin/zsh`
