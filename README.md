@@ -13,6 +13,7 @@
 - Xcode, Homebrew
 - bash -> zsh 
 - Google Japanese Input 
+- [MacTex](http://tug.org/mactex/mactex-download.html)
 
 ## Physics and Astronomy
 - HEASoft 
