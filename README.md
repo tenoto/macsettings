@@ -13,7 +13,7 @@
 - Xcode, Homebrew
 - bash -> zsh 
 - Google Japanese Input 
-- [MacTex](http://tug.org/mactex/mactex-download.html)
+- [MacTex](http://tug.org/mactex/mactex-download.html), TexShop ([Installation hint](http://osksn2.hep.sci.osaka-u.ac.jp/~taku/osx/install_ptex.html))
 
 ## Physics and Astronomy
 - HEASoft 
