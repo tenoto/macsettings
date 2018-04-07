@@ -18,3 +18,6 @@
 
 ## Physics and Astronomy
 - HEASoft 
+
+## Setups
+- change to zsh 'chsh -s /bin/zsh' 
