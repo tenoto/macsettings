@@ -15,9 +15,13 @@
 - Google Japanese Input 
 - [MacTex](http://tug.org/mactex/mactex-download.html), TexShop ([Installation hint](http://osksn2.hep.sci.osaka-u.ac.jp/~taku/osx/install_ptex.html))
 - [Sublime](https://www.sublimetext.com)
+- Xcode, 
 
 ## Physics and Astronomy
 - HEASoft 
 
 ## Setups
 - change to zsh `chsh -s /bin/zsh`
+
+## Homebrew 
+- 
