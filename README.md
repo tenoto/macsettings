@@ -50,4 +50,7 @@ echo 'eval "$(pyenv virtualenv-init -)"' >> ~/.zshrc
 pyenv install 2.7.14
 pyenv rehash
 pyenv virtualenv 2.7.14 py2.7.14env1
+pyenv versions
+pyenv global py2.7.14env1 
+pyenv versions
 ```
