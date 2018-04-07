@@ -17,6 +17,7 @@
 - [Homebrew](https://brew.sh)
 
 ## Physics and Astronomy
+- [XQuartz](https://xquartz.macosforge.org) for HEASoft
 - [HEASoft](https://heasarc.gsfc.nasa.gov/lheasoft/download.html)
 - ds9 
 
