@@ -41,6 +41,6 @@ echo 'eval "$(pyenv init -)"' >> ~/.zshrc
 ### pyenv-tirtualenv 
 ```
 git clone https://github.com/yyuu/pyenv-virtualenv.git ~/.pyenv/plugins/pyenv-virtualenv
-eval "$(pyenv virtualenv-init -)" >> ~/.zshrc
+echo 'eval "$(pyenv virtualenv-init -)"' >> ~/.zshrc
 ```
 
