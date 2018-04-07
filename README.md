@@ -5,7 +5,7 @@
 ## Initial Setup and Installation List
 - Apple account, App Store, iTune, iCloud
 - Google account, Gmail
-- Google Japanese Input 
+- [Google Japanese Input](https://www.google.co.jp/ime/)
 - DaisyDisk 
 - Dropbox, Evernote
 - Wallet 
