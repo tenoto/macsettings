@@ -16,6 +16,9 @@
 - Xcode, Xcode command line tool by `xcode-select --install`, and agree to license `sudo xcodebuild -license`
 - [Homebrew](https://brew.sh)
 
+## Homebrew 
+- brew install gcc (fortran is required for HEASoft install)
+
 ## Physics and Astronomy
 - [XQuartz](https://xquartz.macosforge.org) for HEASoft
 - [HEASoft](https://heasarc.gsfc.nasa.gov/lheasoft/download.html)
@@ -24,9 +27,6 @@
 ## Setups
 - change to zsh `chsh -s /bin/zsh`
 - set `.zshrc`
-
-## Homebrew 
-- 
 
 ## python
 ### pyenv 
