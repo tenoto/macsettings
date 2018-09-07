@@ -1,6 +1,6 @@
 # macsettings
 
-(Last update, 2018-04-07, MacOS High Sierra version 10.13.4)
+(Last update, 2018-09-07, macOS High Sierra version 10.13.4)
 
 ## Initial Setup and Installation List
 - Apple account, App Store, iTune, iCloud
@@ -14,9 +14,10 @@
 - [Sublime](https://www.sublimetext.com)
 - Papers3
 - Xcode, Xcode command line tool by `xcode-select --install`, and agree to license `sudo xcodebuild -license`
-- [Homebrew](https://brew.sh)
 
 ## Homebrew 
+- [Homebrew](https://brew.sh)
+- brew install wget
 - brew install gcc (fortran is required for HEASoft install)
 
 ## Physics and Astronomy
@@ -26,7 +27,7 @@
 
 ## Setups
 - change to zsh `chsh -s /bin/zsh`
-- set `.zshrc`
+- set `.zshrc` (wget from this repository)
 
 ## python
 ### pyenv 
