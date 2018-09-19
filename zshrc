@@ -99,6 +99,8 @@ alias rm="rm -i"
 alias mv="mv -i"
 alias lsize="ls -lh"
 alias ll="ls -al"
+alias pasjps='ps2eps --ignoreBB -R + -f'
+# http://ytkyk.info/wiki/ftools/QDPで保存したPSファイルをPASJ用のEPSに変換する.html
 
 # ==========================
 #    HEASOFT 
