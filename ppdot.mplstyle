@@ -20,6 +20,7 @@ font.family             : 'serif'
 font.size               : 22
 axes.titlesize          : 24
 axes.labelsize          : 20
+axes.labelpad           : 3
 
 # Turn on minor ticks, top and right axis ticks, and change the direction to "in" 
 xtick.top               :   True
