@@ -16,7 +16,7 @@ savefig.format          :   pdf
 # figure.figsize          :   11.0,12.4
 figure.figsize          :   11.0,14.0
 
-font.family             : 'Times New Roman'
+font.family             : 'serif'
 font.size               : 22
 
 # Turn on minor ticks, top and right axis ticks, and change the direction to "in" 
