@@ -7,7 +7,7 @@
 backend                 :  GTK3Agg    
 
 # Increase the default DPI, and change the file type from png to pdf 
-savefig.dpi             :   300
+savefig.dpi             :   600
 savefig.format          :   pdf
 
 # Instead of individually increasing font sizes, point sizes, and line 
