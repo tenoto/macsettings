@@ -1,16 +1,20 @@
- # Set the backend, otherwise the figure won't show up. Note that this will 
-    # depend on your system setup; to see which backend is the default,
-    # run "matplotlib.get_backend()" in the Python interpreter.
-    backend                 :  GTK3Agg    
+# This style file is based on http://www.turnermoni.ca/python3.html
+# modified by T.Enoto (2019-05-14)
+# 
+# Set the backend, otherwise the figure won't show up. Note that this will 
+# depend on your system setup; to see which backend is the default,
+# run "matplotlib.get_backend()" in the Python interpreter.
+backend                 :  GTK3Agg    
 
-    # Increase the default DPI, and change the file type from png to pdf 
-    savefig.dpi             :   300
-    savefig.format          :   pdf
+# Increase the default DPI, and change the file type from png to pdf 
+savefig.dpi             :   300
+savefig.format          :   pdf
 
-    # Instead of individually increasing font sizes, point sizes, and line 
-    # thicknesses, I found it easier to just decrease the figure size so
-    # that the line weights of various components still agree 
-    figure.figsize          :   4,4
+# Instead of individually increasing font sizes, point sizes, and line 
+# thicknesses, I found it easier to just decrease the figure size so
+# that the line weights of various components still agree 
+# figure.figsize          :   4,4
+figure.figsize          :   6,4
 
     # Turn on minor ticks, top and right axis ticks, and change the direction to "in" 
     xtick.top               :   True
