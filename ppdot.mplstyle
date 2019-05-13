@@ -16,6 +16,8 @@ savefig.format          :   pdf
 # figure.figsize          :   11.0,12.4
 figure.figsize          :   11.0,14.0
 
+font.size               : 16.0 
+
 # Turn on minor ticks, top and right axis ticks, and change the direction to "in" 
 xtick.top               :   True
 ytick.right             :   True
