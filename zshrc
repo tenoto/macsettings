@@ -110,6 +110,8 @@ alias heainit=". $HEADAS/headas-init.sh"
 export XPA_METHOD=local 
 # this is needed to avoid fv errors : see https://heasarc.gsfc.nasa.gov/lheasoft/issues.html
 
+export HEADAS_REPOSITORY=/Users/enoto/work/repository/heasarc/FTP/
+
 # ==========================
 #    CALDB
 # ==========================
