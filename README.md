@@ -61,3 +61,6 @@ pyenv versions
 ```
 pip install astropy
 ```
+
+### Remote Sublime
+see: https://qiita.com/UJ_Person/items/e04ef2e4ba7288cb5b25
