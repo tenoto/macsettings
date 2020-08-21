@@ -64,3 +64,10 @@ pip install astropy
 
 ### Remote Sublime
 see: https://qiita.com/UJ_Person/items/e04ef2e4ba7288cb5b25
+
+crontab -e を sublime で行うには、https://askubuntu.com/questions/844064/how-can-i-set-sublime-as-default-text-editor-for-crontab　を参照。
+sublime-wait を作った上で、
+```
+export EDITOR='/path/to/sublime-wait'
+```
+を設定ファイルに書き込む。
