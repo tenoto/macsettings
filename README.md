@@ -15,6 +15,9 @@
 - Papers3
 - Xcode, Xcode command line tool by `xcode-select --install`, and agree to license `sudo xcodebuild -license`
 
+## Terminal 
+- [iceberg](http://cocopon.github.io/iceberg.vim/) (see [link](https://qiita.com/samuraibrass/items/1bf4ff34e8682f762682))
+
 ## Homebrew 
 - [Homebrew](https://brew.sh)
 - brew install wget
@@ -71,3 +74,6 @@ sublime-wait を作った上で、
 export EDITOR='/path/to/sublime-wait'
 ```
 を設定ファイルに書き込む。
+
+### Obsolete applications
+- 
