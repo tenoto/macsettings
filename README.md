@@ -7,14 +7,19 @@
 - Google account, Gmail
 - [Google Japanese Input](https://www.google.co.jp/ime/)
 - DaisyDisk 
-- Dropbox, Evernote, Google Drive
+- Dropbox
 - Wallet 
+- Evernote, Google Drive
 - LINE, twitter, Facebook, ZOOM, Slack
 - [Sublime](https://www.sublimetext.com)
 - Xcode, Xcode command line tool by `xcode-select --install`, and agree to license `sudo xcodebuild -license`
 
 ## Terminal 
 - [iceberg](http://cocopon.github.io/iceberg.vim/) (see [link](https://qiita.com/samuraibrass/items/1bf4ff34e8682f762682))
+
+## Setups
+- change to zsh `chsh -s /bin/zsh`
+- set `.zshrc` (wget from this repository)
 
 ## Homebrew 
 - [Homebrew](https://brew.sh)
@@ -25,10 +30,6 @@
 - [XQuartz](https://xquartz.macosforge.org) for HEASoft
 - [HEASoft](https://heasarc.gsfc.nasa.gov/lheasoft/download.html)
 - ds9 
-
-## Setups
-- change to zsh `chsh -s /bin/zsh`
-- set `.zshrc` (wget from this repository)
 
 ## python
 ### pyenv 
@@ -63,7 +64,7 @@ pyenv versions
 pip install astropy
 ```
 
-### Remote Sublime
+## Remote Sublime
 see: https://qiita.com/UJ_Person/items/e04ef2e4ba7288cb5b25
 
 crontab -e を sublime で行うには、https://askubuntu.com/questions/844064/how-can-i-set-sublime-as-default-text-editor-for-crontab　を参照。
